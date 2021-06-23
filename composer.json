@@ -1,0 +1,15 @@
+{
+    "name": "Files Libre Office Edit",
+    "description": "Open files with LibreOffice for editing (via WebDav)",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Allotropia software GmbH"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}

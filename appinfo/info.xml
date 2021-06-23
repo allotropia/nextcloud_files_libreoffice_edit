@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>fileslibreofficeedit</id>
+    <name>Edit Files with LibreOffice</name>
+    <summary>Open files with LibreOffice for editing (via WebDav)</summary>
+    <description><![CDATA[This adds a new context menu item to the Files dropdown menu &quot;Edit with LibreOffice&quot;.
+Clicking that item will open the file in LibreOffice via WebDav (the file can then be edited and saved back directly in LibreOffice).
+
+This greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the &quot;Edit with LibreOffice&quot; item.]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="samuel.mehrbrodt@allotropia.de" homepage="https://www.allotropia.de/">allotropia software GmbH</author>
+    <namespace>FilesLibreOfficeEdit</namespace>
+    <category>files</category>
+    <category>office</category>
+    <bugs>https://github.com/allotropia/fileslibreofficeedit/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="15" max-version="15"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Files Libre Office Edit</name>
+            <route>fileslibreofficeedit.page.index</route>
+        </navigation>
+    </navigations>
+</info>

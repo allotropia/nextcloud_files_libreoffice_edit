@@ -1,4 +1,4 @@
-# Files Libre Office Edit
+# Nextcloud Files - Edit with LibreOffice
 
 Nextcloud App to edit files directly in LibreOffice (via WebDav).
 

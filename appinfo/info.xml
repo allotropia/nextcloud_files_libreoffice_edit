@@ -14,7 +14,9 @@ This greatly improves the user experience when working with Office files in the 
     <namespace>FilesLibreOfficeEdit</namespace>
     <category>files</category>
     <category>office</category>
-    <bugs>https://github.com/allotropia/fileslibreofficeedit/issues</bugs>
+    <website>https://github.com/allotropia/nextcloud_files_libreoffice_edit</website>
+    <bugs>https://github.com/allotropia/nextcloud_files_libreoffice_edit/issues</bugs>
+    <repository>https://github.com/allotropia/nextcloud_files_libreoffice_edit</repository>
     <dependencies>
         <nextcloud min-version="15"/>
     </dependencies>

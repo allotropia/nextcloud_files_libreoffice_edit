@@ -1,4 +1,7 @@
 # Files Libre Office Edit
+
+Nextcloud App to edit files directly in LibreOffice (via WebDav).
+
 Place this app in **nextcloud/apps/**
 
 ## Building the app

@@ -16,12 +16,6 @@ This greatly improves the user experience when working with Office files in the 
     <category>office</category>
     <bugs>https://github.com/allotropia/fileslibreofficeedit/issues</bugs>
     <dependencies>
-        <nextcloud min-version="15" max-version="15"/>
+        <nextcloud min-version="15"/>
     </dependencies>
-    <navigations>
-        <navigation>
-            <name>Files Libre Office Edit</name>
-            <route>fileslibreofficeedit.page.index</route>
-        </navigation>
-    </navigations>
 </info>

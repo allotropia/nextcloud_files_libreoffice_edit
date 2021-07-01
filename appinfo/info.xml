@@ -18,6 +18,6 @@ This greatly improves the user experience when working with Office files in the 
     <bugs>https://github.com/allotropia/nextcloud_files_libreoffice_edit/issues</bugs>
     <repository>https://github.com/allotropia/nextcloud_files_libreoffice_edit</repository>
     <dependencies>
-        <nextcloud min-version="15" max-version="21"/>
+        <nextcloud min-version="15" max-version="99"/>
     </dependencies>
 </info>

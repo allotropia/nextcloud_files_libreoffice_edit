@@ -1,3 +1,6 @@
+## 1.0.2
+* Only show context menu on supported file types
+
 ## 1.0.1
 * Add missing max-version element
 

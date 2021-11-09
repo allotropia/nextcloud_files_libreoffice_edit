@@ -1,3 +1,6 @@
+## 1.0.3
+* Add info about LibreOffice versions to app description
+
 ## 1.0.2
 * Only show context menu on supported file types
 

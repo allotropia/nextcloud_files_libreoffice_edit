@@ -9,7 +9,7 @@ Clicking that item will open the file in LibreOffice via WebDav (the file can th
 
 This greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the &quot;Edit with LibreOffice&quot; item.
 
-This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions.
+This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3).
 ]]></description>
     <version>1.0.2</version>
     <licence>agpl</licence>

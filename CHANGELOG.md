@@ -1,3 +1,6 @@
+## 1.0.4
+* #10 Previous release had wrong version number in app info
+
 ## 1.0.3
 * Add info about LibreOffice versions to app description
 

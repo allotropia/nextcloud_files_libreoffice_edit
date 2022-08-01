@@ -1,0 +1,6 @@
+OC.L10N.register(
+    "fileslibreofficeedit",
+    {
+    "Edit with LibreOffice" : "Éditer avec LibreOffice"
+},
+"nplurals=2; plural=(n != 1);");

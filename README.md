@@ -16,6 +16,10 @@ Install from the [Nextcloud app store](https://apps.nextcloud.com/apps/fileslibr
 
 Place this app in **nextcloud/apps/**
 
+## Translations
+
+Help translate this app at [Nextcloud Transifex](https://www.transifex.com/nextcloud/nextcloud).
+
 ## Building the app
 
 The app can be built by using the provided Makefile by running:

@@ -4,10 +4,10 @@
     <id>fileslibreofficeedit</id>
     <name>Edit Files with LibreOffice</name>
     <summary>Open files with LibreOffice for editing (via WebDav)</summary>
-    <description><![CDATA[This adds a new context menu item to the Files dropdown menu &quot;Edit with LibreOffice&quot;.
+    <description><![CDATA[This adds a new context menu item to the Files dropdown menu "Edit with LibreOffice".
 Clicking that item will open the file in LibreOffice via WebDav (the file can then be edited and saved back directly in LibreOffice).
 
-This greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the &quot;Edit with LibreOffice&quot; item.
+This greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the "Edit with LibreOffice" item.
 
 This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3).
 ]]></description>

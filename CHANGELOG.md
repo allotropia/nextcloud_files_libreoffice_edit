@@ -1,3 +1,6 @@
+## 1.1.0
+* Add translations for many languages
+
 ## 1.0.4
 * #10 Previous release had wrong version number in app info
 

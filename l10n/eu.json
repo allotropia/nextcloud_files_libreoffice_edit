@@ -1,4 +1,5 @@
 { "translations": {
-    "Edit with LibreOffice" : "Editatu LibreOffice-rekin"
+    "Edit with LibreOffice" : "Editatu LibreOffice-rekin",
+    "Edit files with LibreOffice" : "Editatu fitxategiak LibreOffice-ekin"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

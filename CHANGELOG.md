@@ -1,3 +1,6 @@
+## 1.1.1
+* Limit old version to Nextcloud <= 27 due to incompatible API Changes
+
 ## 1.1.0
 * Add translations for many languages
 

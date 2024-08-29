@@ -11,7 +11,7 @@ This greatly improves the user experience when working with Office files in the 
 
 This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3).
 ]]></description>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <licence>agpl</licence>
     <author mail="samuel.mehrbrodt@allotropia.de" homepage="https://www.allotropia.de/">allotropia software GmbH</author>
     <namespace>FilesLibreOfficeEdit</namespace>

@@ -21,6 +21,6 @@ This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it als
     <bugs>https://github.com/allotropia/nextcloud_files_libreoffice_edit/issues</bugs>
     <repository>https://github.com/allotropia/nextcloud_files_libreoffice_edit</repository>
     <dependencies>
-        <nextcloud min-version="15" max-version="99"/>
+        <nextcloud min-version="15" max-version="27"/>
     </dependencies>
 </info>

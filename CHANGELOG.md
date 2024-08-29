@@ -1,3 +1,6 @@
+## 2.0.0
+* Rewrite to support Nextcloud >= 28 (fixes #29)
+
 ## 1.1.1
 * Limit old version to Nextcloud <= 27 due to incompatible API Changes
 

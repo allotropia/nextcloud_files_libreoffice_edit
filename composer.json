@@ -23,9 +23,7 @@
 		"lint": "find . -name \\*.php -not -path './vendor/*' -not -path './vendor-bin/*' -not -path './build/*' -print0 | xargs -0 -n1 php -l",
 		"cs:check": "php-cs-fixer fix --dry-run --diff",
 		"cs:fix": "php-cs-fixer fix",
-		"psalm": "psalm --threads=1 --no-cache",
-		"test:unit": "phpunit tests -c tests/phpunit.xml --colors=always --fail-on-warning --fail-on-risky",
-		"openapi": "generate-spec"
+		"psalm": "psalm --threads=1 --no-cache"
 	},
 	"require": {
 		"bamarni/composer-bin-plugin": "^1.8",

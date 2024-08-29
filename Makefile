@@ -135,6 +135,9 @@ appstore:
 	--exclude="../$(app_name)/*.log" \
 	--exclude="../$(app_name)/phpunit*xml" \
 	--exclude="../$(app_name)/composer.*" \
+	--exclude="../$(app_name)/vendor" \
+	--exclude="../$(app_name)/vendor-bin" \
+	--exclude="../$(app_name)/node_modules" \
 	--exclude="../$(app_name)/js/node_modules" \
 	--exclude="../$(app_name)/js/tests" \
 	--exclude="../$(app_name)/js/test" \
@@ -144,9 +147,13 @@ appstore:
 	--exclude="../$(app_name)/js/karma.*" \
 	--exclude="../$(app_name)/js/protractor.*" \
 	--exclude="../$(app_name)/package.json" \
+	--exclude="../$(app_name)/package-lock.json" \
 	--exclude="../$(app_name)/bower.json" \
 	--exclude="../$(app_name)/karma.*" \
 	--exclude="../$(app_name)/protractor\.*" \
+	--exclude="../$(app_name)/psalm.xml" \
+	--exclude="../$(app_name)/stylelint.config.js" \
+	--exclude="../$(app_name)/webpack.js" \
 	--exclude="../$(app_name)/.*" \
 	--exclude="../$(app_name)/js/.*" \
 	../$(app_name)

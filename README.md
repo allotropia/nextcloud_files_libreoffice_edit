@@ -46,6 +46,7 @@ The make command will install or update Composer dependencies if a composer.json
 
 ## Release procedure
 
+* **IMPORTANT:** Make sure that this directory is name `fileslibreofficeedit` and not `nextcloud_files_libreoffice_edit` or other names, otherwise the build scripts will produce unusable artifacts.
 * Update CHANGELOG.md
 * Update version number in `appinfo/info.xml`
 * Commit changes & create a tag

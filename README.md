@@ -24,7 +24,7 @@ Help translate this app at [Nextcloud Transifex](https://www.transifex.com/nextc
 
 For developing, build the app (with automatic rebuilding when changes are done) using:
 
-    `npm run watch`
+    npm run watch
 
 ## Building a release
 

@@ -55,6 +55,7 @@ The make command will install or update Composer dependencies and also **npm run
 * **IMPORTANT:** Make sure that this directory is name `fileslibreofficeedit` and not `nextcloud_files_libreoffice_edit` or other names, otherwise the build scripts will produce unusable artifacts.
 * Update CHANGELOG.md
 * Update version number in `appinfo/info.xml`
+* Verify that the build succeeds without errors: `make && make appstore`
 * Commit changes & create a tag
   * git tag -a `v1.0.3`
 * `git push && git push --tags`

@@ -1,4 +1,4 @@
-import { DefaultType, FileAction, Permission, registerFileAction } from '@nextcloud/files'
+import { FileAction, Permission, registerFileAction } from '@nextcloud/files'
 /* eslint-disable-next-line import/no-unresolved */
 import DocSvg from '@mdi/svg/svg/file-document-outline.svg?raw'
 

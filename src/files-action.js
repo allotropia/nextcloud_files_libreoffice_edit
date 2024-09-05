@@ -41,7 +41,6 @@ const supportedMimetypes = [
 registerFileAction(new FileAction({
 	id: 'fileslibreofficeedit-edit',
 	displayName: () => t('fileslibreofficeedit', 'Edit with LibreOffice'),
-	default: DefaultType.DEFAULT,
 	enabled: (nodes) => {
 		if (nodes.length !== 1) {
 			return false

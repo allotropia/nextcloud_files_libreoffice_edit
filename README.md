@@ -20,11 +20,21 @@ Place this app in **nextcloud/apps/**
 
 Help translate this app at [Nextcloud Transifex](https://www.transifex.com/nextcloud/nextcloud).
 
-## Building the app
+## Local development
 
 For developing, build the app (with automatic rebuilding when changes are done) using:
 
     npm run watch
+
+For local testing, use the following command:
+
+    docker run --rm -p 8080:80 -v ~/path/to/fileslibreofficeedit:/var/www/html/apps-extra/fileslibreofficeedit ghcr.io/juliushaertl/nextcloud-dev-php81:latest
+
+Then open Nextcloud in your browser: http://localhost:8080
+
+Go to http://localhost:8080/index.php/settings/apps/installed and enable the `fileslibreofficeedit` app.
+
+Now you can work on the code. Any changes will be visible in your local Nextcloud after reload (maybe need to clear cache).
 
 ## Building a release
 

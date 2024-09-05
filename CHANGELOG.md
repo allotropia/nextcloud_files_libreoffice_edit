@@ -1,3 +1,6 @@
+## 2.0.1
+* Don't register default action for files (fixes #33)
+
 ## 2.0.0
 * Rewrite to support Nextcloud >= 28 (fixes #29)
 

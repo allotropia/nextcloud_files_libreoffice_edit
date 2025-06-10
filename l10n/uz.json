@@ -1,4 +1,7 @@
 { "translations": {
+    "Edit files with LibreOffice" : "LibreOffice yordamida fayllarni tahrirlang",
+    "Open files with LibreOffice for editing (via WebDAV)" : "Fayllarni tahrirlash uchun LibreOffice bilan oching (WebDAV orqali)",
+    "This adds a new context menu item to the Files dropdown menu \"Edit with LibreOffice\".\nClicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).\n\nThis greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the \"Edit with LibreOffice\" item.\n\nThis app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3)." : "Bu \"Fayllar\" ochiladigan menyusiga \"LibreOffice bilan tahrirlash\" yangi kontekst menyusi elementini qo'shadi.\nUshbu elementni bosish faylni WebDAV orqali LibreOffice'da ochadi (faylni tahrirlash va to'g'ridan-to'g'ri LibreOffice'da saqlash mumkin).\n\nBu brauzerda Office fayllari bilan ishlashda foydalanuvchi tajribasini sezilarli darajada yaxshilaydi. Yuklab olish, tahrirlash, qayta yuklash shart emas. Buning o'rniga \"LibreOffice bilan tahrirlash\" bandidan foydalaning.\n\nBu ilova Linux va macOS’da kamida LibreOffice 7.2 talab qiladi. Windowsda u LibreOfficening eski versiyalari bilan ham ishlaydi (LibreOffice 5.3 dan beri).",
     "Edit with LibreOffice" : "LibreOffice bilan tahrirlang"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

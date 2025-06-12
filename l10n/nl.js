@@ -2,7 +2,8 @@ OC.L10N.register(
     "fileslibreofficeedit",
     {
     "Edit files with LibreOffice" : "Bestanden bewerken met LibreOffice",
-    "Open files with LibreOffice for editing (via WebDAV)" : "Bestanden openen met LibreOffice om te bewerken (via WebDAV)",
+    "Open files with LibreOffice for editing (via WebDAV)" : "Bestanden openen om te bewerken met LibreOffice (via WebDAV)",
+    "This adds a new context menu item to the Files dropdown menu \"Edit with LibreOffice\".\nClicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).\n\nThis greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the \"Edit with LibreOffice\" item.\n\nThis app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3)." : "Dit voegt een nieuw contextmenu-item \"Bewerken met LibreOffice\" toe aan het uitklapmenu Bestand. Een klik op dat item opent het bestand in LibreOffice via WebDAV (het bestand kan dan direct in LibreOffice worden bewerkt en opnieuw opgeslagen).\n\nDit levert een enorme verbetering in de gebruikerservaring bij het werken met Office-bestanden in de browser. Geen noodzaak om het bestand eerst te downloaden, daarna te bewerken en vervolgens weer opnieuw te uploaden. Gewoon eenvoudig het item \"Bewerken met LibreOffice\".gebruiken.\n\nDeze app vereist minimaal LibreOffice 7.2 op Linux en macOS. Op Windows werkt het ook met oudere versies van LibreOffice (vanaf LibreOffice 5.3).",
     "Edit with LibreOffice" : "Bewerken met LibreOffice"
 },
 "nplurals=2; plural=(n != 1);");

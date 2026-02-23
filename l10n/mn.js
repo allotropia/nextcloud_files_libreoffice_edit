@@ -1,0 +1,9 @@
+OC.L10N.register(
+    "fileslibreofficeedit",
+    {
+    "Edit files with LibreOffice" : "LibreOffice-оор файл засварлах",
+    "Open files with LibreOffice for editing (via WebDAV)" : "Файлуудыг LibreOffice-оор засварлахаар нээх (WebDAV-аар)",
+    "This adds a new context menu item to the Files dropdown menu \"Edit with LibreOffice\".\nClicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).\n\nThis greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the \"Edit with LibreOffice\" item.\n\nThis app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3)." : "Энэ нь Файлуудын унадаг цэсэнд \"LibreOffice-ээр засварлах\" гэсэн шинэ контекст цэсийн элемент нэмдэг.\nТэр элемент дээр дарахад файлыг WebDAV-аар LibreOffice-д нээнэ (файлыг LibreOffice-д шууд засварлаж буцааж хадгалах боломжтой).\n\nЭнэ нь хөтөч дээр Office файлуудтай ажиллах хэрэглэгчийн туршлагыг ихээхэн сайжруулдаг. Татаж авах, засварлах, дахин байршуулах шаардлагагүй. Оронд нь \"LibreOffice-ээр засварлах\" элементийг ашиглана уу.\n\nЭнэ програм нь Linux болон macOS дээр дор хаяж LibreOffice 7.2 шаарддаг. Windows дээр хуучин LibreOffice хувилбаруудтай (LibreOffice 5.3-аас хойш) ажилладаг.",
+    "Edit with LibreOffice" : "LibreOffice-оор засварлах"
+},
+"nplurals=2; plural=(n != 1);");

@@ -1,6 +1,7 @@
 { "translations": {
-    "Edit files with LibreOffice" : "Taisyti failus naudojant LibreOffice",
+    "Edit files with LibreOffice" : "Redaguoti failus naudojant LibreOffice",
     "Open files with LibreOffice for editing (via WebDAV)" : "Atverti failus taisymui naudojant LibreOffice (per WebDAV)",
-    "Edit with LibreOffice" : "Taisyti naudojant LibreOffice"
+    "This adds a new context menu item to the Files dropdown menu \"Edit with LibreOffice\".\nClicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).\n\nThis greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the \"Edit with LibreOffice\" item.\n\nThis app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3)." : "Tai prideda naują kontekstinio meniu elementą į išskleidžiamąjį meniu „Failai“ „Redaguoti naudojant LibreOffice“.\n\nSpustelėjus šį elementą, failas bus atidarytas „LibreOffice“ programoje per „WebDAV“ (tada failą galima redaguoti ir išsaugoti tiesiai „LibreOffice“ programoje).\n\nTai labai pagerina vartotojo patirtį dirbant su „Office“ failais naršyklėje. Nereikia atsisiųsti, redaguoti, iš naujo įkelti. Vietoj to naudokite elementą „Redaguoti naudojant LibreOffice“.\n\nŠiai programai reikalinga bent „LibreOffice 7.2“ versija „Linux“ ir „macOS“. „Windows“ sistemoje ji taip pat veikia su senesnėmis „LibreOffice“ versijomis (nuo „LibreOffice 5.3“).",
+    "Edit with LibreOffice" : "Redaguoti naudojant LibreOffice"
 },"pluralForm" :"nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);"
 }

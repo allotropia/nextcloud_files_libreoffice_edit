@@ -1,9 +1,9 @@
 OC.L10N.register(
     "fileslibreofficeedit",
     {
-    "Edit files with LibreOffice" : "ویرایش فایل‌ها با LibreOffice",
-    "Open files with LibreOffice for editing (via WebDAV)" : "باز کردن فایل‌ها در LibreOffice برای ویرایش (از طریق WebDAV)",
-    "This adds a new context menu item to the Files dropdown menu \"Edit with LibreOffice\".\nClicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).\n\nThis greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the \"Edit with LibreOffice\" item.\n\nThis app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3)." : "این برنامه یک گزینه‌ی جدید با عنوان \"ویرایش با LibreOffice\" به منوی بازشوی برنامه‌ی فایل‌ها اضافه می‌کند.\nبا کلیک روی این گزینه، فایل از طریق WebDAV در LibreOffice باز می‌شود (سپس می‌توانید فایل را ویرایش کرده و مستقیماً در همان LibreOffice ذخیره کنید).\n\nاین کار تجربه‌ی کاربری هنگام کار با فایل‌های آفیس در مرورگر را به‌مراتب بهتر می‌کند. دیگر نیازی به بارگیری، ویرایش و بارگذاری دوباره نیست؛ به جای آن کافی است از گزینه‌ی \"ویرایش با LibreOffice\" استفاده کنید.\n\nاین برنامه روی لینوکس و macOS دست‌کم به LibreOffice 7.2 نیاز دارد. روی ویندوز با نسخه‌های قدیمی‌تر LibreOffice هم کار می‌کند (از LibreOffice 5.3 به بعد).",
-    "Edit with LibreOffice" : "ویرایش با LibreOffice"
+    "Edit files with LibreOffice" : "ویرایش فایل‌ها با لیبره‌آفیس",
+    "Open files with LibreOffice for editing (via WebDAV)" : "باز کردن فایل‌ها با لیبره‌آفیس برای ویرایش (از طریق WebDAV)",
+    "This adds a new context menu item to the Files dropdown menu \"Edit with LibreOffice\".\nClicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).\n\nThis greatly improves the user experience when working with Office files in the browser. No need to download, edit, reupload. Instead use the \"Edit with LibreOffice\" item.\n\nThis app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3)." : "این قابلیت یک گزینه جدید به منوی کشویی فایل‌ها اضافه می‌کند: «ویرایش با لیبره‌آفیس». با کلیک روی این گزینه، فایل از طریق WebDAV در لیبره‌آفیس باز می‌شود (فایل قابل ویرایش و ذخیره‌سازی مستقیم در لیبره‌آفیس خواهد بود).",
+    "Edit with LibreOffice" : "ویرایش با لیبره‌آفیس"
 },
 "nplurals=2; plural=(n > 1);");

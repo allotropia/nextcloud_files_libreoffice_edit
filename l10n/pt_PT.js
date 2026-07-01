@@ -1,6 +1,7 @@
 OC.L10N.register(
     "fileslibreofficeedit",
     {
+    "Edit files with LibreOffice" : "Editar arquivos com o LibreOffice",
     "Open files with LibreOffice for editing (via WebDAV)" : "Abrir arquivos com o LibreOffice para edição (via WebDAV)",
     "Edit with LibreOffice" : "Edite com o LibreOffice"
 },

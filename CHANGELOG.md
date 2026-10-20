@@ -1,3 +1,6 @@
+## 3.0.0
+* Adapt the code to the new file action API to support Nextcloud >= 33 (fixes #37, #39)
+
 ## 2.0.1
 * Don't register default action for files (fixes #33)
 

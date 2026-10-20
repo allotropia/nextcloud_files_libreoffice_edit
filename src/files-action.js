@@ -1,4 +1,4 @@
-import { FileAction, Permission, registerFileAction } from '@nextcloud/files'
+import { Permission, registerFileAction } from '@nextcloud/files'
 /* eslint-disable-next-line import/no-unresolved */
 import DocSvg from '@mdi/svg/svg/file-document-outline.svg?raw'
 
@@ -38,10 +38,10 @@ const supportedMimetypes = [
 	'application/vnd.openxmlformats-officedocument.presentationml.template',
 ]
 
-registerFileAction(new FileAction({
+registerFileAction({
 	id: 'fileslibreofficeedit-edit',
 	displayName: () => t('fileslibreofficeedit', 'Edit with LibreOffice'),
-	enabled: (nodes) => {
+	enabled: ({ nodes }) => {
 		if (nodes.length !== 1) {
 			return false
 		}
@@ -49,8 +49,8 @@ registerFileAction(new FileAction({
 		return supportedMimetypes.includes(node.mime) && (node.permissions & Permission.READ)
 	},
 	iconSvgInline: () => DocSvg,
-	async exec(node, view, dir) {
+	async exec({ nodes: [node] }) {
 		const url = 'vnd.libreoffice.command:ofe|u|' + node.source
 		window.location = url
 	},
-}))
+})

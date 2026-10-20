@@ -11,7 +11,7 @@ This greatly improves the user experience when working with Office files in the 
 
 This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it also works with older LibreOffice versions (since LibreOffice 5.3).
 ]]></description>
-    <version>2.0.1</version>
+    <version>3.0.0</version>
     <licence>agpl</licence>
     <author mail="samuel.mehrbrodt@allotropia.de" homepage="https://www.allotropia.de/">allotropia software GmbH</author>
     <namespace>FilesLibreOfficeEdit</namespace>
@@ -21,6 +21,6 @@ This app requires at least LibreOffice 7.2 on Linux and macOS. On Windows it als
     <bugs>https://github.com/allotropia/nextcloud_files_libreoffice_edit/issues</bugs>
     <repository>https://github.com/allotropia/nextcloud_files_libreoffice_edit</repository>
     <dependencies>
-        <nextcloud min-version="28" max-version="99"/>
+        <nextcloud min-version="33" max-version="99"/>
     </dependencies>
 </info>
